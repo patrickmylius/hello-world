@@ -12,7 +12,7 @@ _**Link to my FB**_
 
 ![Image of a good morning](https://media2.giphy.com/media/f3FoIzAbLy5sA/200.webp?cid=790b76112e0c7125eea97e9fff91e3bb99d690c3b461e78a&rid=200.webp);![WHO AM I?](https://media2.giphy.com/media/l1KVb2dUcmuGG4tby/100.webp?cid=790b761126f7c59f189f294a3d345d3daf829b9453863189&rid=100.webp)
 
-#### Soon to be comming, is my birthday, so below this, is a wishlist for you guys ####:memo:
+#### Soon to be comming, is my birthday, so below this, is a wishlist for you guys :memo: ####
 
 _As Quuen said:_
 
