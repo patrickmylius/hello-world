@@ -19,4 +19,10 @@ _As Quuen said:_
 
 **2. Java pakke**![Image of java](https://static.javatpoint.com/images/core/java-features.png)
 
-**3. Kæreste**![Image of kæreste](https://www.40plus.dk/images_v2/find-en-kaereste.jpg)
+**~~3. Kæreste~~**![Image of kæreste](https://www.40plus.dk/images_v2/find-en-kaereste.jpg)
+
+_These next weeks i have a few tasks to solve_
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
