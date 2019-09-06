@@ -8,6 +8,10 @@ I love coffee and programming, how ever, I am a newbie at programming, PRO at dr
 
 #### Soon to be comming, is my birthday, so below this, is a wishlist for you guys ####
 
+_As JSAC said:
+
+> No matter what we do
+> We all end up in the ground
 
 **1. Tegnetavle**![Image of tegnetavle](https://www.pricerunner.dk/product/640x640/1868934762/Wacom-Intuos-Small.jpg?c=0.7)
 
