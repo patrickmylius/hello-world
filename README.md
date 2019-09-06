@@ -1,6 +1,8 @@
 # Hello world #
 
-:rainbow_flag: :denmark: :bowtie: :trollface:
+:denmark: :rainbow_flag:
+
+:bowtie: :trollface:
 
 ## **Welcome to my First repository** ##
 
