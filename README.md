@@ -1,7 +1,11 @@
 # Hello world #
-:denmark_flag:
+
+:rainbow_flag: :denmark: :bowtie: :trollface:
+
 ## **Welcome to my First repository** ##
+
 ### Greetings!! ###
+
 ***My name is Patrick. I am 25 years old and lives in Køge, Denmark.
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee***.
 
