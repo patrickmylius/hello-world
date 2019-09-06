@@ -1,8 +1,8 @@
 # :computer::heavy_check_mark: Hello world :heavy_check_mark: :computer: #
 
-## **Welcome to my First repository** ##
+## :denmark: **Welcome to my First repository** :denmark: ##
 
-### Greetings!! :denmark: :rainbow_flag: ###
+### :rainbow_flag: Greetings! :rainbow_flag: ###
 
 ***My name is Patrick. I am 25 years old and lives in Køge, Denmark.
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee :bowtie: :trollface:***.
