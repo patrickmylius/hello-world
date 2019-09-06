@@ -22,7 +22,7 @@ _As Quuen said:_
 **~~3. Kæreste~~**![Image of kæreste](https://www.40plus.dk/images_v2/find-en-kaereste.jpg)
 
 _These next weeks i have a few tasks to solve_
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Tutorials in GitHub
+- [x] Setup IntelliJ
+- [ ] Read Introduktion to Java Programming and Data Structures
+- [ ] Visit FABLAB
