@@ -14,7 +14,7 @@ _**Link to my FB**_
 
 #### Soon to be comming, is my birthday, so below this, is a wishlist for you guys :memo: ####
 
-_As Quuen said:_
+_As Queen said:_
 
 > I WANT IT ALL
 
