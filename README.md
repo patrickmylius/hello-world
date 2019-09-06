@@ -1,7 +1,7 @@
 # Hello world #
-## **Welcome to my First repository** ##
+## **Welcome to my First repository** ##:rainbow_flag: :denmark:
 ### Greetings!! ###
-***My name is Patrick. I am 25 years old and lives in Køge :denmark:.
+***My name is Patrick. I am 25 years old and lives in Køge, Denmark.
 I love coffee and programming, how ever, I am a newbie at programming, PRO at drinking coffee***.
 
 _**Link to my FB**_
