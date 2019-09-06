@@ -9,8 +9,15 @@ I love coffee and programming, how ever, I am a newbie at programming, PRO at dr
 
 **Soon to be comming, is my birthday, so below this, is a wishlist for you guys**
 
-**1. Tegnetavle** ![Image of tegnetavle](https://www.pricerunner.dk/product/640x640/1868934762/Wacom-Intuos-Small.jpg?c=0.7)
+**1. Tegnetavle**
 
-**2. Java pakke** ![Image of java](https://static.javatpoint.com/images/core/java-features.png)
+**2. Java pakke**
 
-**3. Kæreste** ![Image of kæreste](https://www.40plus.dk/images_v2/find-en-kaereste.jpg)
+**3. Kæreste**
+
+![Image of tegnetavle](https://www.pricerunner.dk/product/640x640/1868934762/Wacom-Intuos-Small.jpg?c=0.7)
+
+![Image of java](https://static.javatpoint.com/images/core/java-features.png)
+
+![Image of kæreste](https://www.40plus.dk/images_v2/find-en-kaereste.jpg)
+
